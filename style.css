@@ -38,8 +38,6 @@ nav ul li a {
     max-width: 800px;
     margin: 80px auto 0; /* Adjusted margin to account for fixed header */
     padding: 20px;
-    background-color: white;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1, h2 {
