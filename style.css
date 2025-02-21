@@ -1,7 +1,27 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
 h1 {
-  color: firebrick;
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px;
+  text-align: center;
 }
 
 p {
-  background: gold;
+  margin: 20px;
+  font-size: 1.2em;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
